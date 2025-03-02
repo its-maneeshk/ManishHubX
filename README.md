@@ -1,5 +1,5 @@
 # ManishHubX
-A simple portfolio website using HTML5, CSS3 and Javascript
+A simple portfolio webpage using react + vite and TailwindCSS
 
 
 ## Demo
